@@ -1,0 +1,35 @@
+.app {
+  width: 975px;
+  margin: 0 auto;
+  background: #f1f1f1;
+}
+
+.header {
+  background: #acb5bc;
+  padding: 32px;
+  color: #fff;
+}
+
+.logotype img {
+  width: 32px;
+  height: 32px;
+  vertical-align: middle;
+}
+
+.logotype span {
+  vertical-align: middle;
+  margin-left: 18px;
+  font-size: 22px;
+  font-weight: 400;
+}
+
+.content {
+  padding: 32px
+}
+
+.content h1 {
+  color: #787878;
+  font-size: 22px;
+  font-weight: 400;
+  margin: 36px 0 37px 0;
+}
