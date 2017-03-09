@@ -4,6 +4,8 @@ You can find the most recent version of the guide how to perform common tasks [h
 ## Installation
 ```
 git clone https://github.com/kandrianov/nordsoftware-html5-test
+cd nordsoftware-html5-test
+npm install
 ```
 
 ## Available Scripts
